@@ -3,6 +3,7 @@ import random
 import datetime
 
 # Use the Faker library to generate dummy data for well, anything really.
+# Usage: python3 fakedatagen.py > fakedata.csv
 
 # create a Faker object
 fake = Faker()
